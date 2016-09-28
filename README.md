@@ -7,7 +7,7 @@ Before build, feel free to change your local config patches file.
 
 
 # Usage
-newtork/ottd [save [config [name]]]
+newtork/openttd [save [config [name]]]
 	
 
 # Explanation
