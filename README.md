@@ -6,7 +6,8 @@ Dedicated OpenTTD game server, full automatic Docker build
 Before build, feel free to change your local config patches file.
 
 
-# Usage
+# UsageUsage
+newtork/openttd help
 newtork/openttd [save [config [name]]]
 	
 
